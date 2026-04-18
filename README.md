@@ -14,13 +14,6 @@
 
 ---
 
-## 🚀 Live App
-
-> 🌐 **[Click here to try AttentionX live](YOUR_DEPLOYED_URL_HERE)**  
-> *(Hosted on Streamlit Cloud — no installation needed)*
-
----
-
 ## 📌 Problem Statement
 
 Mentors, educators, and creators produce hours of high-value long-form content. But modern audiences consume information in 60-second bursts. Valuable "golden nuggets" of wisdom are buried in 60-minute videos — inaccessible to the average viewer.
